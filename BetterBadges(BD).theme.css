@@ -9,7 +9,8 @@
 
 @import url('https://mr-miner1.github.io/Better-Badges/src/badges.css');
 :root{
-    --badge-size: 22px; /*discord defualt = 18px, theme defualt = 22px;*/
+    --badge-size: 22px;
     --badge-margin: 1.5px; /*discord default = 2px, theme defualt = 1.5px*/
     --badges-everywhere-size: 15px; /*default = 15px*/
 }
+
